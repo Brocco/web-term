@@ -1,0 +1,29 @@
+{
+  "name": "web-term",
+  "version": "1.0.0",
+  "description": "AngularJS-based module that allows you to run terminal-like commands in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brocco/web-term.git"
+  },
+  "keywords": [
+    "angular",
+    "terminal"
+  ],
+  "author": "Mike Brocchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brocco/web-term/issues"
+  },
+  "homepage": "https://github.com/Brocco/web-term#readme",
+  "dependencies": {
+    "angular": "^1.4.7"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2"
+  }
+}
